@@ -15,6 +15,16 @@ a%=2
 console.log(a)
 console.log(5/0)
 
+// 5/0 -> Infinity
+// 0/0 -> NaN
+// let b -> undefined
+
+// typeof a -> number
+
+// console.log('5'-1) -> automatic type conversion
+
+
+
 
 
 
